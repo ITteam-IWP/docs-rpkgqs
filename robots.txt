@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-rgxo6e.kujang138.space/sitemap.xml
